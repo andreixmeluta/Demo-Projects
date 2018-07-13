@@ -1,0 +1,73 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     1969 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\endles\Downloads\cv projects\IN-OUT v0.3a\IN-OUT v0.3a_Data\Managed\System.dll (this message is harmless)
+HDR and MultisampleAntiAliasing (in Forward Rendering Path) is not supported. This camera will render without HDR buffers. Disable Antialiasing in the Quality settings if you want to use HDR.
+ 
+(Filename:  Line: 2630)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.111752 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 450.
+Total: 2.816591 ms (FindLiveObjects: 0.047262 ms CreateObjectMapping: 0.028728 ms MarkObjects: 2.701679 ms  DeleteObjects: 0.037995 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.432714 ms
+
+Unloading 1584 unused Assets to reduce memory usage. Loaded Objects now: 485.
+Total: 4.174227 ms (FindLiveObjects: 0.192138 ms CreateObjectMapping: 0.102247 ms MarkObjects: 2.888566 ms  DeleteObjects: 0.989112 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.127040 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 485.
+Total: 2.826167 ms (FindLiveObjects: 0.050351 ms CreateObjectMapping: 0.023476 ms MarkObjects: 2.744307 ms  DeleteObjects: 0.006486 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.051596 ms
+
+Unloading 949 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 3.656194 ms (FindLiveObjects: 0.130357 ms CreateObjectMapping: 0.080932 ms MarkObjects: 2.852424 ms  DeleteObjects: 0.590934 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.470309 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 2.845628 ms (FindLiveObjects: 0.052822 ms CreateObjectMapping: 0.023476 ms MarkObjects: 2.760062 ms  DeleteObjects: 0.007413 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.474487 ms
+HDR and MultisampleAntiAliasing (in Forward Rendering Path) is not supported. This camera will render without HDR buffers. Disable Antialiasing in the Quality settings if you want to use HDR.
+ 
+(Filename:  Line: 2630)
+
+
+Unloading 1042 unused Assets to reduce memory usage. Loaded Objects now: 441.
+Total: 3.624994 ms (FindLiveObjects: 0.142096 ms CreateObjectMapping: 0.083404 ms MarkObjects: 2.566378 ms  DeleteObjects: 0.831262 ms)
+
